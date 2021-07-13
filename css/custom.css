@@ -1,4 +1,6 @@
-
+body {
+    overflow: hidden; 
+  }
 
 h2 { color: #ffffff}
 
@@ -7,6 +9,10 @@ h2 { color: #ffffff}
     padding-top: 0%;
 }
 
+#resume_view {
+    width: 100%;
+    height: 100%;
+}
 
 #c {
     left:0;
