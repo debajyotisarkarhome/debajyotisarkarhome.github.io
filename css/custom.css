@@ -50,6 +50,13 @@ h2 {
     opacity: 1;
 }
 
+.fa-contact {
+    text-decoration: none;
+    color: var(--primary-light);
+    padding:10px 10px 10px 10px ;
+}
+
+
 .social-buttons {
     text-align: center;
 }
